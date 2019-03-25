@@ -1,0 +1,22 @@
+{
+  "name": "sortzeroes",
+  "version": "1.0.0",
+  "description": "`npm i`",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest sortZeroes.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeedBoot/sortZeroes.git"
+  },
+  "author": "oli booty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeedBoot/sortZeroes/issues"
+  },
+  "homepage": "https://github.com/SeedBoot/sortZeroes#readme",
+  "dependencies": {
+    "jest": "^24.5.0"
+  }
+}
