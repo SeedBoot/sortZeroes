@@ -7,7 +7,7 @@ describe('Create a function that moves all zeroes in an array to its end', () =>
             .toEqual([1, 0])
     });
 
-    test('sort [1, 0] to [1, 0]', () => {
+    xtest('sort [1, 0] to [1, 0]', () => {
         expect( sortZeroes([1, 0]) )
             .toEqual([1, 0])
     });
